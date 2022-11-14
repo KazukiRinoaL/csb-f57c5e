@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kazukirinoal.github.io/csb-f57c5e/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://kazukirinoal.github.io/csb-f57c5e/static/js/main.8f992519.chunk.js",
+    "main.js.map": "https://kazukirinoal.github.io/csb-f57c5e/static/js/main.8f992519.chunk.js.map",
+    "runtime-main.js": "https://kazukirinoal.github.io/csb-f57c5e/static/js/runtime-main.248929e5.js",
+    "runtime-main.js.map": "https://kazukirinoal.github.io/csb-f57c5e/static/js/runtime-main.248929e5.js.map",
+    "static/js/2.54384c4d.chunk.js": "https://kazukirinoal.github.io/csb-f57c5e/static/js/2.54384c4d.chunk.js",
+    "static/js/2.54384c4d.chunk.js.map": "https://kazukirinoal.github.io/csb-f57c5e/static/js/2.54384c4d.chunk.js.map",
+    "index.html": "https://kazukirinoal.github.io/csb-f57c5e/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://kazukirinoal.github.io/csb-f57c5e/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.54384c4d.chunk.js.LICENSE.txt": "https://kazukirinoal.github.io/csb-f57c5e/static/js/2.54384c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.248929e5.js",
+    "static/js/2.54384c4d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.8f992519.chunk.js"
+  ]
+}
